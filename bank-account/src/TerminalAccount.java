@@ -1,3 +1,5 @@
+//---(US)---
+
 import java.util.Scanner;
 
 public class TerminalAccount {
