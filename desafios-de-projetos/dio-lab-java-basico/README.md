@@ -1,4 +1,4 @@
-## DIO Lab - Sintaxe Básica com Java (PT-BR)
+## DIO Lab - Sintaxe Básica com Java
 
 * Simulando um Conta Bancária Através do Console
 

@@ -1,3 +1,3 @@
-## Bootcamp: Claro - Java com Spring Boot (PT-BR)
+## Bootcamp: Claro - Java com Spring Boot
 
-* Repositório reservado para os laborátorios disponibilizados ao decorrer do bootcamp
+* Repositório reservado para estudos durante o Bootcamp
