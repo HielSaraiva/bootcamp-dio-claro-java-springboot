@@ -2,6 +2,6 @@
 
 * Modelando o Iphone com UML
 
-* 
+* Criando um Banco Digital
 
-* 
+* Abstraindo um Bootcamp
