@@ -1,4 +1,4 @@
-<h1> Aprenda na Prática Programação Orientada a Objetos - Desafio</h1>
+<h1> Abstraindo Bootcamp com Java e POO - Desafio</h1>
 
 <h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
 
