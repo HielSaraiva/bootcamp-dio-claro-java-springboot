@@ -101,12 +101,10 @@
 Topo do pirâmide (lento/maior integração)
 
 0. Manual de Testes
-1. Teste UI (sistema/regreção)
+1. Teste UI/Teste end-to-end (sistema/regreção)
 2. Teste de serviço (integração)
 3. Teste de unidade (unitário)
 
 Base da pirâmide (rápido/mais isolado)
 
----
-
-* Evitar Antipattern (pirâmide invertida)
+Obs.: Evitar Antipattern (pirâmide invertida)
