@@ -58,7 +58,7 @@ Existem vários tipos de templates maven para projetos, alguns deles podem ser v
 
 As outras configurações não citadas no pom básico são herdadas do Super POM
 
-Leia mais: **[Super POM - Maven 3.0.4](https://maven.apache.org/ref/3.0.4/maven-model-builder/super-pom.html)**'
+Leia mais: **[Super POM - Maven 3.0.4](https://maven.apache.org/ref/3.0.4/maven-model-builder/super-pom.html)**
 
 ## Repositórios
 
